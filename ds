@@ -1,0 +1,8 @@
+l1=[]
+l=int(input('enter no. of list elements :'))
+i=0
+while i<l:
+    lis=input()
+    l1.append(lis)
+    i+=1
+print(l1)    
